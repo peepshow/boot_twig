@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap_maggi",
+  "version": "4.7.11",
+  "homepage": "http://bitbucket.org/jamdigital",
+  "description": "Custom build for Maggi VN",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "bootstrap",
+    "twig",
+    "gulp"
+  ],
+  "authors": [
+    "Regan Vause"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
